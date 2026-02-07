@@ -34,9 +34,3 @@ Currently focused on **AgriNest**, a multi-tenant poultry management system buil
 - [https://next-gen-shopper.vercel.app/]
 - **Task Flow:**  A task and project management application designed to organize workflows and track progress
 - [https://task-flow-topaz-pi.vercel.app/]
------
-
-
-## GitHub Stats
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexkochens&show_icons=true&theme=radical)
