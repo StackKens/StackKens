@@ -1,6 +1,6 @@
 # Alex StackKens
 
-I am a frontend developer specializing in building scalable and maintainable web applications.  
+I am a fullstack mernstack developer specializing in building scalable and maintainable web applications.  
 Currently focused on **AgriNest**, a multi-tenant poultry management system built with React and Tailwind CSS, designed for real-world farm operations and professional-grade UI/UX.
 
 ---
