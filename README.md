@@ -246,7 +246,7 @@ I believe great software should be:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StackKens&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackKens&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
