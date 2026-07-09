@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alex stackkens
+# Hi, I'm Alex StackKens
 
 ### Full-Stack JavaScript Developer
 
@@ -48,7 +48,7 @@ Currently exploring:
 
 
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -68,7 +68,6 @@ Currently exploring:
 - Postman
 - Sentry
 - WatermelonDB
-
 
 
 
@@ -118,7 +117,7 @@ Currently exploring:
 
 <td width="50%">
 
-### 🎓 Community Platforms
+### Community Platforms
 
 - Education platforms
 - Collaboration tools
@@ -174,8 +173,7 @@ A mobile Point of Sale application designed to help businesses manage products, 
 
 
 
-
-## 💳 SACCOConnect
+## SACCOConnect
 
 A mobile application built for Savings and Credit Cooperative Organizations (SACCOs).
 
@@ -201,7 +199,7 @@ The platform helps members manage their finances while allowing administrators t
 
 
 
-## 🎓 Study Circle
+## Study Circle
 
 A collaborative learning platform built for university students to connect, share ideas, collaborate, and study together.
 
@@ -227,10 +225,8 @@ A collaborative learning platform built for university students to connect, shar
 </a>
 
 
-<hr>
 
-
-## ✍️ StateCraft Blog
+## StateCraft Blog
 
 Currently in development.
 
@@ -271,17 +267,18 @@ I believe great software should be:
 
 
 
-# 📊 GitHub Analytics
+
+# GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=stackkens&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=StackKens&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackkens&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackKens&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=stackkens&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=StackKens&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -295,19 +292,20 @@ I believe great software should be:
 <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/stackkens">
 <img src="https://skillicons.dev/icons?i=twitter" width="35"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://reddit.com/u/stackkens">
 <img src="https://skillicons.dev/icons?i=reddit" width="35"/>
 </a>
 
 </div>
+
 
 
 
