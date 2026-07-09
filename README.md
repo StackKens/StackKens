@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alex 👋
+# Hi, I'm Alex stackkens
 
 ### Full-Stack JavaScript Developer
 
@@ -27,10 +27,8 @@ Building scalable web and mobile applications with modern JavaScript technologie
 </div>
 
 
-<hr>
 
-
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full-Stack JavaScript Developer passionate about building software that solves real-world problems.
 
@@ -48,7 +46,6 @@ Currently exploring:
 - System design
 
 
-<hr>
 
 
 # 🛠 Tech Stack
@@ -73,10 +70,9 @@ Currently exploring:
 - WatermelonDB
 
 
-<hr>
 
 
-# 🚀 What I Build
+# What I Build
 
 <table>
 
@@ -84,7 +80,7 @@ Currently exploring:
 
 <td width="50%">
 
-### 🌐 Full-Stack Applications
+### Full-Stack Applications
 
 - React applications
 - REST APIs
@@ -95,7 +91,7 @@ Currently exploring:
 
 <td width="50%">
 
-### 📱 Mobile Applications
+### Mobile Applications
 
 - React Native applications
 - Business solutions
@@ -111,7 +107,7 @@ Currently exploring:
 
 <td width="50%">
 
-### 🏢 Business Solutions
+### Business Solutions
 
 - POS systems
 - Admin dashboards
@@ -136,13 +132,11 @@ Currently exploring:
 </table>
 
 
-<hr>
+
+# Featured Projects
 
 
-# 🚀 Featured Projects
-
-
-## 📱 PrimeBooks POS
+## PrimeBooks POS
 
 A mobile Point of Sale application designed to help businesses manage products, sales, and daily operations efficiently.
 
@@ -179,7 +173,6 @@ A mobile Point of Sale application designed to help businesses manage products, 
 </a>
 
 
-<hr>
 
 
 ## 💳 SACCOConnect
@@ -206,8 +199,6 @@ The platform helps members manage their finances while allowing administrators t
 <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github"/>
 </a>
 
-
-<hr>
 
 
 ## 🎓 Study Circle
@@ -241,7 +232,7 @@ A collaborative learning platform built for university students to connect, shar
 
 ## ✍️ StateCraft Blog
 
-🚧 Currently in development.
+Currently in development.
 
 A full-stack blogging platform created to explore modern application architecture and scalable development practices.
 
@@ -255,10 +246,8 @@ A full-stack blogging platform created to explore modern application architectur
 - Production-ready folder structure
 
 
-<hr>
 
-
-# 🧠 Engineering Principles
+# Engineering Principles
 
 I believe great software should be:
 
@@ -270,10 +259,8 @@ I believe great software should be:
 - Continuously improved
 
 
-<hr>
 
-
-# 🌱 Currently Learning
+# Currently Learning
 
 - Advanced PostgreSQL
 - Backend architecture
@@ -282,8 +269,6 @@ I believe great software should be:
 - Performance optimization
 - Cloud deployment
 
-
-<hr>
 
 
 # 📊 GitHub Analytics
@@ -301,10 +286,8 @@ I believe great software should be:
 </div>
 
 
-<hr>
 
-
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -326,8 +309,6 @@ I believe great software should be:
 
 </div>
 
-
-<hr>
 
 
 <div align="center">
