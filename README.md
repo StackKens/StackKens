@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Alex StackKens
+# Hi, I'm Alex 👋
 
 ### Full-Stack JavaScript Developer
 
 Building scalable web and mobile applications with modern JavaScript technologies.
 
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/alex-stackkens-4937113a8">
 <img src="https://img.shields.io/badge/LinkedIn-Alex%20StackKens-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,24 +20,25 @@ Building scalable web and mobile applications with modern JavaScript technologie
 <img src="https://img.shields.io/badge/Reddit-stackkens-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=StackKens&style=flat-square&color=blue"/>
 
 </div>
 
 
----
+<hr>
 
-## About Me
+
+## 👨‍💻 About Me
 
 I'm a Full-Stack JavaScript Developer passionate about building software that solves real-world problems.
 
 I enjoy transforming ideas into complete applications — from designing intuitive user interfaces to building reliable backend systems and scalable database architectures.
 
-My main focus is creating maintainable software with clean architecture, thoughtful user experiences, and technologies that can grow with real-world requirements.
+My focus is creating maintainable software with clean architecture, thoughtful user experiences, and technologies that can grow with real-world requirements.
 
-Currently exploring deeper concepts in:
+Currently exploring:
 
 - Scalable application architecture
 - Backend engineering
@@ -47,26 +48,43 @@ Currently exploring deeper concepts in:
 - System design
 
 
----
+<hr>
+
 
 # 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,express,postgres,firebase,tailwind,vite,html,css,git,github,linux,vscode,npm&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,express,postgres,firebase,tailwind,vite,git,github,linux,vscode&perline=8" height="40"/>
 
 </div>
 
 
----
+### Additional Tools
 
-# What I Build
+- Expo
+- Zustand
+- TanStack Query
+- Axios
+- React Router
+- PostgreSQL
+- Postman
+- Sentry
+- WatermelonDB
+
+
+<hr>
+
+
+# 🚀 What I Build
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-### Full-Stack Applications
+### 🌐 Full-Stack Applications
 
 - React applications
 - REST APIs
@@ -77,24 +95,28 @@ Currently exploring deeper concepts in:
 
 <td width="50%">
 
-### Mobile Applications
+### 📱 Mobile Applications
 
-- React Native apps
-- Business applications
+- React Native applications
+- Business solutions
 - Financial platforms
 - Productivity tools
 
 </td>
+
 </tr>
 
+
 <tr>
+
 <td width="50%">
 
-### Business Solutions
+### 🏢 Business Solutions
 
 - POS systems
 - Admin dashboards
 - Management platforms
+- Data-driven applications
 
 </td>
 
@@ -105,40 +127,60 @@ Currently exploring deeper concepts in:
 - Education platforms
 - Collaboration tools
 - Content systems
+- Learning communities
 
 </td>
+
 </tr>
+
 </table>
 
 
----
-
-# Featured Projects
+<hr>
 
 
-## PrimeBooks POS
+# 🚀 Featured Projects
+
+
+## 📱 PrimeBooks POS
 
 A mobile Point of Sale application designed to help businesses manage products, sales, and daily operations efficiently.
 
 ### Features
 
-- Product management
+- Inventory management
 - Sales tracking
-- Business operations management
-- Mobile-first experience
+- Offline-first data handling
+- Bluetooth receipt printing
+- Product management
+- Analytics dashboards
+- Secure local storage
+- Notifications
 
 ### Built With
 
-<img src="https://skillicons.dev/icons?i=reactnative,typescript,expo"/>
+<img src="https://skillicons.dev/icons?i=reactnative,typescript,expo&perline=3" height="35"/>
 
-<br/>
+**Libraries & Tools**
+
+- Expo Router
+- Zustand
+- WatermelonDB
+- React Navigation
+- Axios
+- React Native Reanimated
+- React Native SVG
+- Sentry
+- Expo Secure Store
+
 
 <a href="https://github.com/primefocus-ug/primebooks-mobile">
 <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github"/>
 </a>
 
 
----
+<hr>
+
 
 ## 💳 SACCOConnect
 
@@ -157,16 +199,16 @@ The platform helps members manage their finances while allowing administrators t
 
 ### Built With
 
-<img src="https://skillicons.dev/icons?i=reactnative,typescript,nodejs,express,postgres"/>
+<img src="https://skillicons.dev/icons?i=reactnative,typescript,nodejs,express,postgres&perline=5" height="35"/>
 
-<br/>
 
 <a href="https://github.com/StackKens/SACCOConnect">
 <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github"/>
 </a>
 
 
----
+<hr>
+
 
 ## 🎓 Study Circle
 
@@ -182,9 +224,8 @@ A collaborative learning platform built for university students to connect, shar
 
 ### Built With
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres&perline=5" height="35"/>
 
-<br/>
 
 <a href="https://studycircle-2026.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify"/>
@@ -195,13 +236,14 @@ A collaborative learning platform built for university students to connect, shar
 </a>
 
 
----
+<hr>
+
 
 ## ✍️ StateCraft Blog
 
-Currently in development.
+🚧 Currently in development.
 
-A full-stack blogging platform created to explore modern application architecture.
+A full-stack blogging platform created to explore modern application architecture and scalable development practices.
 
 ### Main Focus
 
@@ -213,22 +255,25 @@ A full-stack blogging platform created to explore modern application architectur
 - Production-ready folder structure
 
 
----
+<hr>
 
-# Engineering Principles
+
+# 🧠 Engineering Principles
 
 I believe great software should be:
 
 - Simple and maintainable
 - Designed with users in mind
 - Built for scalability
-- Easy for other developers to understand
+- Easy for developers to understand
 - Reliable and secure
+- Continuously improved
 
 
----
+<hr>
 
-# Currently Learning
+
+# 🌱 Currently Learning
 
 - Advanced PostgreSQL
 - Backend architecture
@@ -238,44 +283,55 @@ I believe great software should be:
 - Cloud deployment
 
 
----
+<hr>
+
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StackKens&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=stackkens&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackKens&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackkens&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=stackkens&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 
----
+<hr>
 
-# Let's Connect
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alex-stackkens-4937113a8">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://x.com/stackkens">
-<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+<img src="https://skillicons.dev/icons?i=twitter" width="35"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://reddit.com/u/stackkens">
-<img src="https://skillicons.dev/icons?i=reddit" width="45"/>
+<img src="https://skillicons.dev/icons?i=reddit" width="35"/>
 </a>
 
 </div>
 
 
----
+<hr>
+
 
 <div align="center">
 
-### Building software one commit at a time
+### Building software one commit at a time 🚀
 
 </div>
