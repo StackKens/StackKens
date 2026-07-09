@@ -288,25 +288,21 @@ I believe great software should be:
 
 <div align="center">
 
+<p>
 <a href="https://www.linkedin.com/in/alex-stackkens-4937113a8">
-<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/stackkens">
-<img src="https://skillicons.dev/icons?i=twitter" width="35"/>
+<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://reddit.com/u/stackkens">
-<img src="https://skillicons.dev/icons?i=reddit" width="35"/>
+<img src="https://skillicons.dev/icons?i=reddit" width="40"/>
 </a>
+</p>
 
 </div>
-
-
 
 
 <div align="center">
