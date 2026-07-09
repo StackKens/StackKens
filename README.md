@@ -46,12 +46,15 @@ Currently exploring:
 - System design
 
 
-
 # Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,express,postgres,firebase,tailwind,vite,git,github,linux,vscode&perline=8" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Building+Scalable+Mobile+Apps;Clean+Architecture+%7C+React+%7C+Node.js"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,express,postgres,firebase,python,tailwind,vite,git,github,linux,vscode&perline=5" height="60"/>
 
 </div>
 
