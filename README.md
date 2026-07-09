@@ -286,26 +286,21 @@ I believe great software should be:
 
 # Let's Connect
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/alex-stackkens-4937113a8">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/stackkens">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="40"/>
+<img src="https://img.shields.io/badge/X-StackKens-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://reddit.com/u/stackkens">
-<img src="https://cdn.simpleicons.org/reddit/FF4500" width="40"/>
+<img src="https://img.shields.io/badge/Reddit-StackKens-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
-</div>
-
+</p>
 
 <div align="center">
 
