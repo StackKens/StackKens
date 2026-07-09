@@ -273,9 +273,9 @@ I believe great software should be:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackKens&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackKens&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="180"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=StackKens&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StackKens&theme=github-dark-blue&hide_border=true" height="180"/>
 
 </div>
 
