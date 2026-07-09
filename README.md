@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Alex (StackKens)
+# Hi, I'm Alex StackKens
 
 ### Full-Stack JavaScript Developer
 
@@ -29,7 +29,7 @@ Building scalable web and mobile applications with modern JavaScript technologie
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full-Stack JavaScript Developer passionate about building software that solves real-world problems.
 
@@ -60,13 +60,13 @@ Currently exploring deeper concepts in:
 
 ---
 
-# 🚀 What I Build
+# What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Full-Stack Applications
+### Full-Stack Applications
 
 - React applications
 - REST APIs
@@ -77,7 +77,7 @@ Currently exploring deeper concepts in:
 
 <td width="50%">
 
-### 📱 Mobile Applications
+### Mobile Applications
 
 - React Native apps
 - Business applications
@@ -90,7 +90,7 @@ Currently exploring deeper concepts in:
 <tr>
 <td width="50%">
 
-### 🏢 Business Solutions
+### Business Solutions
 
 - POS systems
 - Admin dashboards
@@ -113,10 +113,10 @@ Currently exploring deeper concepts in:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 
-## 📱 PrimeBooks POS
+## PrimeBooks POS
 
 A mobile Point of Sale application designed to help businesses manage products, sales, and daily operations efficiently.
 
@@ -199,7 +199,7 @@ A collaborative learning platform built for university students to connect, shar
 
 ## ✍️ StateCraft Blog
 
-🚧 Currently in development.
+Currently in development.
 
 A full-stack blogging platform created to explore modern application architecture.
 
@@ -215,7 +215,7 @@ A full-stack blogging platform created to explore modern application architectur
 
 ---
 
-# 🧠 Engineering Principles
+# Engineering Principles
 
 I believe great software should be:
 
@@ -228,7 +228,7 @@ I believe great software should be:
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Advanced PostgreSQL
 - Backend architecture
@@ -253,7 +253,7 @@ I believe great software should be:
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -276,6 +276,6 @@ I believe great software should be:
 
 <div align="center">
 
-### Building software one commit at a time 🚀
+### Building software one commit at a time
 
 </div>
