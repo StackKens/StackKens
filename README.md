@@ -1,303 +1,119 @@
 <div align="center">
 
-# Hi, I'm Alex StackKens
+# Alex StackKens
 
-### Full-Stack JavaScript Developer
+**Full-Stack JavaScript Developer**
 
 Building scalable web and mobile applications with modern JavaScript technologies.
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-stackkens-4937113a8)
+[![X](https://img.shields.io/badge/X-@stackkens-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stackkens)
+[![Reddit](https://img.shields.io/badge/Reddit-stackkens-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/stackkens)
 
-<a href="https://www.linkedin.com/in/alex-stackkens-4937113a8">
-<img src="https://img.shields.io/badge/LinkedIn-Alex%20StackKens-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/stackkens">
-<img src="https://img.shields.io/badge/X-@stackkens-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://reddit.com/u/stackkens">
-<img src="https://img.shields.io/badge/Reddit-stackkens-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=StackKens&style=flat-square&color=blue"/>
+![Profile views](https://komarev.com/ghpvc/?username=StackKens&style=flat-square&color=3B82F6)
 
 </div>
 
-
+---
 
 ## About Me
 
-I'm a Full-Stack JavaScript Developer passionate about building software that solves real-world problems.
+I'm a full-stack JavaScript developer who enjoys turning ideas into complete, working software — from interfaces users interact with, to the APIs and databases running underneath.
 
-I enjoy transforming ideas into complete applications — from designing intuitive user interfaces to building reliable backend systems and scalable database architectures.
+My focus is clean architecture, maintainable code, and building systems that hold up as requirements grow. I care as much about *why* something works as I do about shipping it.
 
-My focus is creating maintainable software with clean architecture, thoughtful user experiences, and technologies that can grow with real-world requirements.
+**What I value in software:**
+- Simple, maintainable code over clever shortcuts
+- Designed around the user, not just the feature list
+- Built to scale, secure by default
+- Continuously refined, never "done and forgotten"
 
-Currently exploring:
+**Currently exploring:** scalable application architecture · backend engineering · database design · authentication systems · mobile development · system design
 
-- Scalable application architecture
-- Backend engineering
-- Database design
-- Authentication systems
-- Mobile application development
-- System design
+---
 
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |---|---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![WatermelonDB](https://img.shields.io/badge/WatermelonDB-00A98F?style=flat-square) |
+| **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) |
+| **State & Data** | ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) |
 
+---
 
-### Additional Tools
+## Featured Projects
 
-- Expo
-- Zustand
-- TanStack Query
-- Axios
-- React Router
-- PostgreSQL
-- Postman
-- Sentry
-- WatermelonDB
+### 📱 PrimeBooks POS
+Mobile Point of Sale app for managing products, sales, and daily operations — built offline-first for reliability in the field.
 
+**Key features:** inventory management · sales tracking · offline-first data handling · Bluetooth receipt printing · analytics dashboards · secure local storage
 
+**Built with:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) ![WatermelonDB](https://img.shields.io/badge/WatermelonDB-00A98F?style=flat-square) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-# What I Build
+[![View Repository](https://img.shields.io/badge/View_Repository-black?style=flat-square&logo=github)](https://github.com/primefocus-ug/primebooks-mobile)
 
-<table>
+<br>
 
-<tr>
+### 💰 SACCOConnect
+Mobile application for Savings and Credit Cooperative Organizations (SACCOs), giving members finance tools and admins full loan-workflow control.
 
-<td width="50%">
+**Key features:** member accounts · savings management · loan applications & approval workflow · repayment tracking · financial monitoring
 
-### Full-Stack Applications
+**Built with:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- React applications
-- REST APIs
-- Authentication systems
-- Database-driven platforms
+[![View Repository](https://img.shields.io/badge/View_Repository-black?style=flat-square&logo=github)](https://github.com/StackKens/SACCOConnect)
 
-</td>
+<br>
 
-<td width="50%">
+### 🎓 Study Circle
+Collaborative learning platform for university students to connect, share resources, and study together.
 
-### Mobile Applications
+**Key features:** student collaboration · discussion threads · resource sharing · instructor tools
 
-- React Native applications
-- Business solutions
-- Financial platforms
-- Productivity tools
+**Built with:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat-square&logo=netlify&logoColor=white)](https://studycircle-2026.netlify.app/)
+[![View Repository](https://img.shields.io/badge/View_Repository-black?style=flat-square&logo=github)](https://github.com/StackKens/study-circle)
 
-</tr>
+<br>
 
+### ✍️ StateCraft Blog `— in development`
+Full-stack blogging platform built to explore modern application architecture and scalable development practices, with a focus on production-ready backend design.
 
-<tr>
+**Main focus:** Context API state management · JWT authentication & refresh token rotation · PostgreSQL schema design · production-ready folder structure
 
-<td width="50%">
+**Built with:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Business Solutions
+---
 
-- POS systems
-- Admin dashboards
-- Management platforms
-- Data-driven applications
+## Currently Learning
 
-</td>
+Advanced PostgreSQL · Backend architecture · System design · Authentication & security · Performance optimization · Cloud deployment
 
-<td width="50%">
+---
 
-### Community Platforms
-
-- Education platforms
-- Collaboration tools
-- Content systems
-- Learning communities
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-# Featured Projects
-
-
-## PrimeBooks POS
-
-A mobile Point of Sale application designed to help businesses manage products, sales, and daily operations efficiently.
-
-### Features
-
-- Inventory management
-- Sales tracking
-- Offline-first data handling
-- Bluetooth receipt printing
-- Product management
-- Analytics dashboards
-- Secure local storage
-- Notifications
-
-### Built With
-
-<img src="https://skillicons.dev/icons?i=reactnative,typescript,expo&perline=3" height="35"/>
-
-**Libraries & Tools**
-
-- Expo Router
-- Zustand
-- WatermelonDB
-- React Navigation
-- Axios
-- React Native Reanimated
-- React Native SVG
-- Sentry
-- Expo Secure Store
-
-
-<a href="https://github.com/primefocus-ug/primebooks-mobile">
-<img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github"/>
-</a>
-
-
-
-## SACCOConnect
-
-A mobile application built for Savings and Credit Cooperative Organizations (SACCOs).
-
-The platform helps members manage their finances while allowing administrators to manage members and loan workflows.
-
-### Features
-
-- Member accounts
-- Savings management
-- Loan applications
-- Loan repayment tracking
-- Loan approval workflow
-- Financial monitoring
-
-### Built With
-
-<img src="https://skillicons.dev/icons?i=reactnative,typescript,nodejs,express,postgres&perline=5" height="35"/>
-
-
-<a href="https://github.com/StackKens/SACCOConnect">
-<img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github"/>
-</a>
-
-
-
-## Study Circle
-
-A collaborative learning platform built for university students to connect, share ideas, collaborate, and study together.
-
-### Features
-
-- Student collaboration
-- Discussions
-- Resource sharing
-- Learning communities
-- Instructor resources
-
-### Built With
-
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres&perline=5" height="35"/>
-
-
-<a href="https://studycircle-2026.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify"/>
-</a>
-
-<a href="https://github.com/StackKens/study-circle">
-<img src="https://img.shields.io/badge/Repository-black?style=for-the-badge&logo=github"/>
-</a>
-
-
-
-## StateCraft Blog
-
-Currently in development.
-
-A full-stack blogging platform created to explore modern application architecture and scalable development practices.
-
-### Main Focus
-
-- React Context API
-- Authentication
-- PostgreSQL architecture
-- Scalable state management
-- Backend API design
-- Production-ready folder structure
-
-
-
-# Engineering Principles
-
-I believe great software should be:
-
-- Simple and maintainable
-- Designed with users in mind
-- Built for scalability
-- Easy for developers to understand
-- Reliable and secure
-- Continuously improved
-
-
-
-# Currently Learning
-
-- Advanced PostgreSQL
-- Backend architecture
-- System design
-- Authentication & security
-- Performance optimization
-- Cloud deployment
-
-
-
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StackKens&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="180"/>
-
 <img src="https://streak-stats.demolab.com/?user=StackKens&theme=github-dark-blue&hide_border=true" height="180"/>
 
 </div>
 
-
-
-# Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/alex-stackkens-4937113a8">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/stackkens">
-<img src="https://img.shields.io/badge/X-StackKens-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://reddit.com/u/stackkens">
-<img src="https://img.shields.io/badge/Reddit-StackKens-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-</p>
+---
 
 <div align="center">
 
-### Building software one commit at a time
+**Let's connect** — [LinkedIn](https://www.linkedin.com/in/alex-stackkens-4937113a8) · [X](https://x.com/stackkens) · [Reddit](https://reddit.com/u/stackkens)
+
+*Building software one commit at a time.*
 
 </div>
