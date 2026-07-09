@@ -22,7 +22,7 @@ Building scalable web and mobile applications with modern JavaScript technologie
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=StackKens&style=flat-square&color=blue"/>
 
 </div>
 
