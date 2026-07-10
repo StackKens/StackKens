@@ -46,7 +46,7 @@ My focus is clean architecture, maintainable code, and building systems that hol
 
 ## Featured Projects
 
-### 📱 PrimeBooks POS
+### 💳 PrimeBooks POS
 Mobile Point of Sale app for managing products, sales, and daily operations — built offline-first for reliability in the field.
 
 **Key features:** inventory management · sales tracking · offline-first data handling · Bluetooth receipt printing · analytics dashboards · secure local storage
