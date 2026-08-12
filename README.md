@@ -27,7 +27,7 @@ My focus is clean architecture, maintainable code, and building systems that hol
 
 **Currently exploring:** scalable application architecture · backend engineering · database design · authentication systems · mobile development · system design
 
-## Tech Stack## 
+#Tech Stack#
 
 <div align="center">
 
