@@ -1,0 +1,58 @@
+<svg viewBox="0 0 820 220" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+
+  <!-- connecting paths -->
+  <path id="pathFB" d="M 190 100 L 380 100" stroke="#30363d" stroke-width="2" fill="none"/>
+  <path id="pathBD" d="M 490 100 L 680 100" stroke="#30363d" stroke-width="2" fill="none"/>
+
+  <!-- Frontend node -->
+  <rect x="40" y="55" width="150" height="90" rx="14" fill="#161b22" stroke="#61DAFB" stroke-width="1.5"/>
+  <image href="https://cdn.simpleicons.org/react/61DAFB" x="90" y="70" width="50" height="50"/>
+  <text x="115" y="135" fill="#c9d1d9" font-size="13" font-weight="600" text-anchor="middle">FRONTEND</text>
+
+  <!-- Backend node -->
+  <rect x="380" y="55" width="110" height="90" rx="14" fill="#161b22" stroke="#339933" stroke-width="1.5"/>
+  <image href="https://cdn.simpleicons.org/node.js/339933" x="410" y="70" width="50" height="50"/>
+  <text x="435" y="135" fill="#c9d1d9" font-size="13" font-weight="600" text-anchor="middle">BACKEND</text>
+
+  <!-- Database node -->
+  <rect x="680" y="55" width="110" height="90" rx="14" fill="#161b22" stroke="#4169E1" stroke-width="1.5"/>
+  <image href="https://cdn.simpleicons.org/postgresql/4169E1" x="710" y="70" width="50" height="50"/>
+  <text x="735" y="135" fill="#c9d1d9" font-size="13" font-weight="600" text-anchor="middle">DATABASE</text>
+
+  <!-- request dots: frontend -> backend -->
+  <circle r="4.5" fill="#58a6ff">
+    <animateMotion dur="1.6s" repeatCount="indefinite" path="M 190 100 L 380 100"/>
+  </circle>
+  <circle r="4.5" fill="#58a6ff" opacity="0">
+    <animateMotion dur="1.6s" begin="0.55s" repeatCount="indefinite" path="M 190 100 L 380 100"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.6s" begin="0.55s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- response dots: backend -> frontend -->
+  <circle r="4.5" fill="#3fb950" opacity="0">
+    <animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" path="M 380 100 L 190 100"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- request dots: backend -> database -->
+  <circle r="4.5" fill="#58a6ff">
+    <animateMotion dur="1.6s" begin="0.15s" repeatCount="indefinite" path="M 490 100 L 680 100"/>
+  </circle>
+  <circle r="4.5" fill="#58a6ff" opacity="0">
+    <animateMotion dur="1.6s" begin="0.7s" repeatCount="indefinite" path="M 490 100 L 680 100"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- response dots: database -> backend -->
+  <circle r="4.5" fill="#3fb950" opacity="0">
+    <animateMotion dur="1.6s" begin="0.95s" repeatCount="indefinite" path="M 680 100 L 490 100"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.6s" begin="0.95s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- labels -->
+  <text x="285" y="80" fill="#8b949e" font-size="11" text-anchor="middle">API request</text>
+  <text x="585" y="80" fill="#8b949e" font-size="11" text-anchor="middle">query</text>
+  <text x="285" y="128" fill="#8b949e" font-size="11" text-anchor="middle">response</text>
+  <text x="585" y="128" fill="#8b949e" font-size="11" text-anchor="middle">data</text>
+
+</svg>
