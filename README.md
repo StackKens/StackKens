@@ -27,362 +27,108 @@ My focus is clean architecture, maintainable code, and building systems that hol
 
 **Currently exploring:** scalable application architecture · backend engineering · database design · authentication systems · mobile development · system design
 
-## Tech Stack
+## Tech Stack## 
 
 <div align="center">
 
 <table>
 <tr>
-<th>Layer</th>
-<th>Technologies</th>
-<th>Focus</th>
+<th align="left">Layer</th>
+<th align="left">Technologies</th>
+<th align="left">Focus</th>
 </tr>
 
 <tr>
-<td align="center">
-
-<b>Frontend</b>
-
+<td valign="middle"><b>Languages</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="26" height="26" alt="JavaScript"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="26" height="26" alt="TypeScript"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="26" height="26" alt="Python"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="26" height="26" alt="SQL"/>
+<br><sub>JavaScript · TypeScript · Python · SQL</sub>
 </td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="52" height="52" alt="React"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/expo/000020" width="52" height="52" alt="Expo"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="52" height="52" alt="TypeScript"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/vite/646CFF" width="52" height="52" alt="Vite"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="52" height="52" alt="Tailwind CSS"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="52" height="52" alt="Figma"/>
-
-<br>
-
-React · React Native · Expo · TypeScript · Vite · Tailwind CSS · Figma
-
-</td>
-
-<td align="center">
-
-Web & Mobile<br>
-UI / UX<br>
-Design Systems
-
-</td>
+<td valign="middle"><sub>Application logic · scripting · queries</sub></td>
 </tr>
 
 <tr>
-<td colspan="3" align="center">
-
-### ↓ · · · API REQUEST · · · ↓
-
+<td valign="middle"><b>Frontend & Mobile</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="26" height="26" alt="React"/>
+<img src="https://cdn.simpleicons.org/expo/000020" width="26" height="26" alt="Expo"/>
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="26" height="26" alt="Vite"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="26" height="26" alt="Tailwind CSS"/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="26" height="26" alt="Figma"/>
+<br><sub>React · React Native · Expo · Vite · Tailwind CSS · Figma</sub>
 </td>
+<td valign="middle"><sub>Web & mobile UI · design systems</sub></td>
 </tr>
 
 <tr>
-<td align="center">
-
-<b>⚙️ Backend</b>
-
+<td valign="middle"><b>Backend</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/node.js/339933" width="26" height="26" alt="Node.js"/>
+<img src="https://cdn.simpleicons.org/express/000000" width="26" height="26" alt="Express"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="26" height="26" alt="JWT"/>
+<br><sub>Node.js · Express · REST APIs · JWT</sub>
 </td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/node.js/339933" width="52" height="52" alt="Node.js"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/express/000000" width="52" height="52" alt="Express"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" width="52" height="52" alt="Python"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/prisma/2D3748" width="52" height="52" alt="Prisma"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="52" height="52" alt="JWT"/>
-
-<br>
-
-Node.js · Express · Python · Prisma · REST APIs · JWT
-
-</td>
-
-<td align="center">
-
-API Development<br>
-Authentication<br>
-Business Logic
-
-</td>
+<td valign="middle"><sub>API design · authentication · business logic</sub></td>
 </tr>
 
 <tr>
-<td colspan="3" align="center">
-
-### ↓ · · · DATA ACCESS · · · ↓
-
+<td valign="middle"><b>Database</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="26" height="26" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/prisma/2D3748" width="26" height="26" alt="Prisma"/>
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="26" height="26" alt="Firebase"/>
+<img src="https://cdn.simpleicons.org/sqlite/003B57" width="26" height="26" alt="SQLite"/>
+<br><sub>PostgreSQL · Prisma · Firebase · SQLite</sub>
 </td>
+<td valign="middle"><sub>Schema design · persistence · data modeling</sub></td>
 </tr>
 
 <tr>
-<td align="center">
-
-<b>🗄️ Database</b>
-
+<td valign="middle"><b>State & Data</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="26" height="26" alt="TanStack Query"/>
+<img src="https://cdn.simpleicons.org/axios/5A29E4" width="26" height="26" alt="Axios"/>
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="26" height="26" alt="React Router"/>
+<br><sub>Zustand · TanStack Query · Axios · React Router</sub>
 </td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="52" height="52" alt="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="52" height="52" alt="Firebase"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/sqlite/003B57" width="52" height="52" alt="SQLite"/>
-
-<br>
-
-PostgreSQL · Firebase · SQLite · Local Data
-
-</td>
-
-<td align="center">
-
-Relational Data<br>
-Persistence<br>
-Data Modeling
-
-</td>
+<td valign="middle"><sub>Client & server state · data fetching</sub></td>
 </tr>
 
 <tr>
-<td align="center">
-
-<b>State & Data</b>
-
+<td valign="middle"><b>Tools</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/git/F05032" width="26" height="26" alt="Git"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="26" height="26" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="26" height="26" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="26" height="26" alt="VS Code"/>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="26" height="26" alt="Postman"/>
+<img src="https://cdn.simpleicons.org/sentry/362D59" width="26" height="26" alt="Sentry"/>
+<br><sub>Git · GitHub · Linux · VS Code · Postman · Sentry</sub>
 </td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" width="52" height="52" alt="Zustand"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="52" height="52" alt="TanStack Query"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/axios/5A29E4" width="52" height="52" alt="Axios"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="52" height="52" alt="React Router"/>
-
-<br>
-
-Zustand · TanStack Query · Axios · React Router
-
-</td>
-
-<td align="center">
-
-State Management<br>
-Server State<br>
-Data Fetching
-
-</td>
+<td valign="middle"><sub>Development · debugging · monitoring</sub></td>
 </tr>
 
 <tr>
-<td align="center">
-
-<b>🛠️ Tools</b>
-
+<td valign="middle"><b>AI-Assisted Dev</b></td>
+<td valign="middle">
+<img src="https://cdn.simpleicons.org/anthropic/D97757" width="26" height="26" alt="Claude"/>
+<br><sub>Claude · OpenAI</sub>
 </td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/git/F05032" width="52" height="52" alt="Git"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="52" height="52" alt="GitHub"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/linux/FCC624" width="52" height="52" alt="Linux"/>
-&nbsp;
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-  width="52"
-  height="52"
-  alt="Visual Studio Code"
-/>
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="52" height="52" alt="Postman"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/sentry/362D59" width="52" height="52" alt="Sentry"/>
-
-<br>
-
-Git · GitHub · Linux · VS Code · Postman · Sentry
-
-</td>
-
-<td align="center">
-
-Development<br>
-Testing<br>
-Monitoring
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>AI</b>
-
-</td>
-
-<td align="center">
-<img
-  src="https://commons.wikimedia.org/wiki/Special:Redirect/file/OpenAI_logo_2025_(symbol).svg"
-  width="52"
-  height="52"
-  alt="OpenAI"
-/>
-  
-<img src="https://cdn.simpleicons.org/anthropic/D97757" width="52" height="52" alt="Claude"/>
-
-<br>
-
-OpenAI· Claude
-
-</td>
-
-<td align="center">
-
-AI Integration<br>
-AI-assisted Development<br>
-AI/ML Exploration
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>🐍 Languages</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="52" height="52" alt="JavaScript"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="52" height="52" alt="TypeScript"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" width="52" height="52" alt="Python"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="52" height="52" alt="SQL"/>
-
-<br>
-
-JavaScript · TypeScript · Python · SQL
-
-</td>
-
-<td align="center">
-
-Application Logic<br>
-Backend Engineering<br>
-Data
-
-</td>
+<td valign="middle"><sub>Pair-programming · code review · ML exploration</sub></td>
 </tr>
 
 </table>
 
 <br>
 
-### Application Architecture
+### Data Flow
 
-<table>
-<tr>
-
-<td align="center" width="30%">
-
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="55" height="55" alt="Frontend"/>
-
-<br>
-
-<b>FRONTEND</b>
-
-<br>
-
-React<br>
-React Native<br>
-Expo
-
-</td>
-
-<td align="center" width="10%">
-
-<br>
-
-**╌╌╌→**
-
-<br>
-
-**API**
-
-<br>
-
-**←╌╌╌**
-
-</td>
-
-<td align="center" width="30%">
-
-<img src="https://cdn.simpleicons.org/node.js/339933" width="55" height="55" alt="Backend"/>
-
-<br>
-
-<b>BACKEND</b>
-
-<br>
-
-Node.js<br>
-Express<br>
-Python
-
-</td>
-
-<td align="center" width="10%">
-
-<br>
-
-**╌╌╌→**
-
-<br>
-
-**DATA**
-
-<br>
-
-**←╌╌╌**
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="55" height="55" alt="Database"/>
-
-<br>
-
-<b>DATABASE</b>
-
-<br>
-
-PostgreSQL<br>
-Prisma
-
-</td>
-
-</tr>
-</table>
+<img src="./assets/dataflow.svg" width="100%" alt="Frontend to backend to database request/response flow"/>
 
 </div>
-
 
 
 
