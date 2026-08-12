@@ -126,7 +126,7 @@ My focus is clean architecture, maintainable code, and building systems that hol
 
 ### Data Flow
 
-<img src="./assets/dataflow.svg" width="100%" alt="Frontend to backend to database request/response flow"/>
+<img src="dataflow.svg" width="100%" alt="Frontend to backend to database request/response flow"/>
 
 </div>
 
