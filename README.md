@@ -14,7 +14,7 @@ Building scalable web and mobile applications with modern JavaScript technologie
 
 ## About Me
 
-I'm a full-stack JavaScript developer who enjoys turning ideas into complete, working software — from interfaces users interact with, to the APIs and databases running underneath.
+I'm a full-stack JavaScript developer and an aspiring AI/ML engineer who enjoys turning ideas into complete, working software — from interfaces users interact with, to the APIs and databases running underneath.
 
 My focus is clean architecture, maintainable code, and building systems that hold up as requirements grow. I care as much about *why* something works as I do about shipping it.
 
