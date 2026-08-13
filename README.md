@@ -228,7 +228,7 @@ Full-stack blogging platform built to explore modern application architecture an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat-square\&logo=netlify\&logoColor=white)](https://statecraft-blog.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat-square\&logo=netlify\&logoColor=white)](https://statecraft-blog.vercel.app/)[![View Repository](https://img.shields.io/badge/View_Repository-black?style=flat-square\&logo=github)](https://github.com/StackKens/statecraft-blog)
 
 ## Currently Learning
 
