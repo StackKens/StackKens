@@ -212,7 +212,7 @@ Collaborative learning platform for university students to connect, share resour
 
 <br>
 
-### ✍️ StateCraft Blog `— in development`
+### ✍️ StateCraft Blog
 
 Full-stack blogging platform built to explore modern application architecture and scalable development practices, with a focus on production-ready backend design.
 
@@ -226,6 +226,9 @@ Full-stack blogging platform built to explore modern application architecture an
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat-square\&logo=netlify\&logoColor=white)](https://statecraft-blog.vercel.app/)
 
 ## Currently Learning
 
